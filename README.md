@@ -6,6 +6,7 @@ A Selenium-based project that is able to automate Clash Results on CodinGame int
 ## System Requirements
 - FireFox
 - System Environmental Variables
+- Git
 
 ## Technologies Used
 - Java - Version 1.8
@@ -23,6 +24,24 @@ A Selenium-based project that is able to automate Clash Results on CodinGame int
 - Enter a URL to find a specific Clash and specify a name for the downloadable CSV file
 - Web-Driven Automation through Selenium that facilitates and speeds up checking Clash Results
 - Accessibility through the use of an executable JAR file
+
+## How to Use Application
+  1. After project has been downloaded or pulled, open the folder.
+  2. Open the Codingames_automatation-master folder
+   ![](./images/CodingGamesFolder.PNG)
+  3. Open the target folder 
+   ![](./images/TargetFolder.PNG)
+  4. Right click and select git bash here
+   ![](./images/GitBash.PNG)
+  5. Run the command $ java -jar CodingGamesAutomation-0.0.1-SNAPSHOT-jar-with-dependencies.jar in the      git bash.
+   ![](./images/CommandOne.PNG)
+  6. Enter the codingame URL with the ranking table
+   ![](./images/EnterUrl.PNG)
+  7. Enter the file name
+   ![](./images/EnterFileName.PNG)
+  8. When program is finished you will see the text "Have a nice day"
+   ![](./images/HaveANiceDay.PNG.PNG)
+  12. Check your desktop for the csv file
 
 ## Contributors
 - Chakong Xiong
