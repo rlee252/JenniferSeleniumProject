@@ -25,6 +25,22 @@ A Selenium-based project that is able to automate Clash Results on CodinGame int
 - Web-Driven Automation through Selenium that facilitates and speeds up checking Clash Results
 - Accessibility through the use of an executable JAR file
 
+##Set-up Environment Variables
+  1. In windows search bar look up environment variables 
+  2. Select Edit the system environment variables
+      ![](./images/WindowSearch.PNG)
+  3. click Environment Variables
+      ![](./images/EnvironmentVariable.PNG)
+  4. Click New
+      ![](./images/New.PNG)
+  5. In the Variable name input bar type "codingames_user" and for the Variable value input bar type your email address used for codingames.
+      ![](./images/EmailVariable.PNG)
+  6. Click Ok
+  7. Click New
+  8. In the Variable name input bar type "codingames_password" and for the Variable value input bar type your password used for codingames.
+      ![](./images/PasswordVariable.PNG)
+  9. click Ok
+
 ## How to Use Application
   1. After project has been downloaded or pulled, open the folder.
   2. Open the Codingames_automatation-master folder
@@ -33,7 +49,7 @@ A Selenium-based project that is able to automate Clash Results on CodinGame int
    ![](./images/TargetFolder.PNG)
   4. Right click and select git bash here
    ![](./images/GitBash.PNG)
-  5. Run the command $ java -jar CodingGamesAutomation-0.0.1-SNAPSHOT-jar-with-dependencies.jar in the      git bash.
+  5. Run the command $ java -jar CodingGamesAutomation-0.0.1-SNAPSHOT-jar-with-dependencies.jar in the git bash.
    ![](./images/CommandOne.PNG)
   6. Enter the codingame URL with the ranking table
    ![](./images/EnterUrl.PNG)
