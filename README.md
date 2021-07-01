@@ -28,7 +28,7 @@ A Selenium-based project that is able to automate Clash Results on CodinGame int
 ## Set-up Environment Variables
   1. In windows search bar look up environment variables 
   2. Select Edit the system environment variables
-      ![](./images/windowSearch.PNG)
+      ![](./images/windowSearch.png)
   3. click Environment Variables
       ![](./images/EnvironmentVariable.PNG)
   4. Click New
@@ -48,7 +48,7 @@ A Selenium-based project that is able to automate Clash Results on CodinGame int
   3. Open the target folder 
    ![](./images/TargetFolder.PNG)
   4. Right click and select git bash here
-   ![](./images/GitBash.PNG)
+   ![](./images/GitBash.png)
   5. Run the command $ java -jar CodingGamesAutomation-0.0.1-SNAPSHOT-jar-with-dependencies.jar in the git bash.
    ![](./images/CommandOne.PNG)
   6. Enter the codingame URL with the ranking table
