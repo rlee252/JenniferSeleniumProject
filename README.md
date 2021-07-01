@@ -40,7 +40,7 @@ A Selenium-based project that is able to automate Clash Results on CodinGame int
   7. Enter the file name
    ![](./images/EnterFileName.PNG)
   8. When program is finished you will see the text "Have a nice day"
-   ![](./images/HaveANiceDay.PNG.PNG)
+   ![](./images/HaveANiceDay.PNG)
   12. Check your desktop for the csv file
 
 ## Contributors
