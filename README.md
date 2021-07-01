@@ -25,7 +25,7 @@ A Selenium-based project that is able to automate Clash Results on CodinGame int
 - Web-Driven Automation through Selenium that facilitates and speeds up checking Clash Results
 - Accessibility through the use of an executable JAR file
 
-##Set-up Environment Variables
+## Set-up Environment Variables
   1. In windows search bar look up environment variables 
   2. Select Edit the system environment variables
       ![](./images/windowSearch.PNG)
