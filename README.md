@@ -28,7 +28,7 @@ A Selenium-based project that is able to automate Clash Results on CodinGame int
 ##Set-up Environment Variables
   1. In windows search bar look up environment variables 
   2. Select Edit the system environment variables
-      ![](./images/WindowSearch.PNG)
+      ![](./images/windowSearch.PNG)
   3. click Environment Variables
       ![](./images/EnvironmentVariable.PNG)
   4. Click New
